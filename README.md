@@ -20,6 +20,9 @@ The dataset contains 5,572 SMS messages with two classes: Ham and Spam.
 - Classes: Ham, Spam
 - Class Distribution: Imbalanced, with more Ham messages than Spam messages
 
+## Dataset Source
+The dataset used in this project is the SMS Spam Collection dataset.
+
 ## Installation
 Install the required dependencies using:
 
